@@ -1,7 +1,7 @@
 import 'package:example/pages/cursor_pagination.dart';
 import 'package:example/pages/page_pagination.dart';
 import 'package:flutter/material.dart';
-import 'package:list_paginator/list_paginator.dart';
+import 'package:list_paginator_nerdzlab/list_paginator.dart';
 
 /// Mock data model
 class Item {

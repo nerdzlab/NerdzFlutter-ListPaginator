@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:list_paginator/list_paginator.dart';
+import 'package:list_paginator_nerdzlab/list_paginator.dart';
 
 import '../main.dart';
 
