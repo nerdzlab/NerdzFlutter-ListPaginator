@@ -1,6 +1,5 @@
 import 'package:flutter/widgets.dart';
-
-import '../list_paginator.dart';
+import 'package:list_paginator_nerdzlab/list_paginator_nerdzlab.dart';
 
 /// A class that manages pagination for a scrollable list of items.
 ///
