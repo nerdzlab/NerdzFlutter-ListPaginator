@@ -16,7 +16,7 @@ Add this line to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  list_paginator: ^1.0.0
+  list_paginator: ^1.0.1
 ```
 
 ## Usage
@@ -24,7 +24,7 @@ dependencies:
 ### Import the package
 
 ```dart
-import 'package:list_paginator/list_paginator.dart';
+import 'package:list_paginator_nerdzlab/list_paginator.dart';
 ```
 ### Response Example
 
