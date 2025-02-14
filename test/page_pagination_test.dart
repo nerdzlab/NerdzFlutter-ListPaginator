@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:list_paginator/list_paginator.dart';
+import 'package:list_paginator_nerdzlab/list_paginator.dart';
 import 'package:mockito/annotations.dart';
 import 'package:mockito/mockito.dart';
 

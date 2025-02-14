@@ -16,7 +16,7 @@ Add this line to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  list_paginator: ^0.1.0
+  list_paginator: ^1.0.0
 ```
 
 ## Usage
